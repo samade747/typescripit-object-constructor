@@ -61,6 +61,7 @@ console.log(house2)
 //     }
 // }
 
+<<<<<<< HEAD
 
 
 
@@ -99,6 +100,8 @@ console.log(house2)
 //     }
 // }
 
+=======
+>>>>>>> 6b96373d2c68666bf42cfea4746418f446c16724
 
 
 
@@ -114,6 +117,7 @@ class Animal {
         console.log(`${this.name} is walking`);
     }
 
+<<<<<<< HEAD
 =======
 class Animal {
     name: string;
@@ -126,6 +130,8 @@ class Animal {
         console.log(`${this.name} is walking`);
     }
 
+>>>>>>> 6b96373d2c68666bf42cfea4746418f446c16724
+=======
 >>>>>>> 6b96373d2c68666bf42cfea4746418f446c16724
     eat() {
         console.log(`${this.name} is eating`);
